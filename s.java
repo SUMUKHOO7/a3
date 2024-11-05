@@ -1,8 +1,8 @@
 
-public class sumukh
+public class Sumukh
 {
  public static void main(String args[])
 {
- system.out.println("hi everyone");
+ System.out.println("hi everyone");
 }
 }
